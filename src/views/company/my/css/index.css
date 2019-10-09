@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+.warper {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.warper .top {
+  width: 100%;
+  height: 530px;
+  background: red;
+}
+
+.warper .bottom {
+  width: 100%;
+  height: 830px;
+  background: yellow;
+}
